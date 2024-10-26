@@ -1,3 +1,3 @@
 # keanu-freelancer
 
-https://github.com/Borisov-V/keanu-freelancer
+https://borisov-v.github.io/keanu-freelancer/
