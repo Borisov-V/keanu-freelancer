@@ -156,8 +156,10 @@
       <div class="footer__form-container">
         <form class="footer__form" action="#0" id="form">
           <h3 class="footer__form-title">Можете просто оставить заявку, я позвоню вам сегодня</h3>
-          <input class="footer__form-input footer__form-tel" type="text" name="name" placeholder="Ваше имя">
-          <input class="footer__form-input" type="tel" name="email" placeholder="Ваш телефон">
+          <label class="visually-hidden" for="name">Ваше имя</label>
+          <input class="footer__form-input footer__form-tel" id="name" type="text" name="name" placeholder="Ваше имя">
+          <label class="visually-hidden" for="tel">Ваш телефон</label>
+          <input class="footer__form-input" id="tel" type="tel" name="tel" placeholder="Ваш телефон">
           <input class="footer__form-button button" type="submit" value="Бесплатная консультация">
         </form>
       </div>

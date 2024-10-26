@@ -89,6 +89,7 @@
 }
 
 .button {
+  display: inline-block;
   border: 0;
   border-radius: 6px;
   padding: 25px 63px;
